@@ -1,5 +1,3 @@
-Sure, here’s the revised README with the focus solely on your work:
-
 # Scene Graph Image Captioning
 
 ## Introduction
